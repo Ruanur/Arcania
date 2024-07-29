@@ -208,7 +208,7 @@ doneEnjoyServer = "준비 완료! 입장합니다.."
 checkConsoleForDetails = "Please check the console (CTRL + Shift + i) for more details."
 
 [js.landing.news]
-checking = "Checking for News"
+checking = "패치 노트를 확인하고 있습니다"
 
 [js.landing.discord]
 loading = "Loading game.."
