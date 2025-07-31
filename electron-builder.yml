@@ -1,5 +1,5 @@
 appId: 'helioslauncher'
-productName: 'Arcania Launcher'
+productName: 'SongLim Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2024 Daniel Scalzi'

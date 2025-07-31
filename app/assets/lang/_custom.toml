@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Arcania"
+title = "SongLim : Crime Day"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
 supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "송림에 입주하신 여러분, 환영합니다."
+welcomeDescription = "송림은 평화롭고 조용한 도시처럼 보이지만, 그 이면에서는 무법자들과 경찰 간의 긴장이 끊이지 않습니다. 도시 곳곳에서 벌어지는 다양한 사건들은 송림의 어두운 면을 드러내기도 하나, 동시에 이곳은 수많은 사람들이 삶을 꾸려가는 활기가 가득한 도시이기도 합니다. 농부, 어부, 광부, 요리사 등 다양한 직업이 존재하며, 각자의 방식으로 도시를 지탱하고 있죠. 어떤 삶을 선택하든, 이곳 송림에서는 누구나 자신만의 이야기를 써 내려갈 수 있습니다. 하지만 주의하세요. 이 도시는 겉모습만 보고 판단할 수 없으니까요."
+welcomeDescCTA = "앞으로 송림을 마주하기까지, 단 몇걸음 남지 않았습니다."
